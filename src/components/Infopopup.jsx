@@ -18,14 +18,14 @@ const Infopopup = ({ closePopup }) => {
         >
           ×
         </button>
-        <h2 className="text-2xl font-bold text-center md:text-[32pt] md:text-left">How to use??</h2>
+        <h2 className="text-2xl font-bold text-center md:text-[32pt] md:text-left">How to use?</h2>
         <div className="space-y-3 text-base md:space-y-[32px] md:text-xl">
-          <p>Step 1 : User Choose an Algorithm</p>
-          <p>Step 2 : Input Process Data or Generate process</p>
+          <p>Step 1 : Choose an Algorithm</p>
+          <p>Step 2 : Input process data or generate process</p>
           <p>Step 3 : Click "Start Simulation" to see the result</p>
-          <p>Step 4 : You can see the Gantt Chart and Process Information</p>
+          <p>Step 4 : You can see the Gantt Chart and process information</p>
           <p>Step 5 : You can click on Magnifier to see more clearly</p>
-          <p>Step 6 : You can adjust Time Quantum in MLFQ Algorithm</p>
+          <p>Step 6 : You can adjust time quantum in MLFQ lgorithm</p>
         </div>
       </div>
     </div>
